@@ -96,7 +96,7 @@ for object detection research, which supports many state-ofthe-
 art algorithms. In this task, we use the Faster R-CNN algorithm
 with the ResNeXt [Xie et al., 2016] as the backbone
 network architecture, where the parameters are pre-trained on
-the ImageNet dataset. All baselines are trained using 4P100
+the ImageNet dataset. All baselines are trained using 4 P100
 NVIDIA GPUs using data parallel sync SGD with a minibatch
 size of 16 images. For other parameters, we use the
 default values in Detectron. During testing, the confidence
@@ -119,7 +119,7 @@ OpenNMT is mainly designed for neural
 machine translation, which supports many encoder-decoder
 frameworks. In this task, we train our model using the imageto-
 text method in OpenNMT. The model is also trained using
-4*P100 NVIDIA GPUs with the learning rate of 0.1
+4 P100 NVIDIA GPUs with the learning rate of 0.1
 and batch size of 24. For other parameters,
 we use the default values in OpenNMT.
 
