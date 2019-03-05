@@ -129,7 +129,7 @@ we use the default values in OpenNMT.
 | Image-to-Text (Latex)      | 0.4048 | **0.7653** | 0.5818     |
 | Image-to-Text (Word+Latex) | 0.7121 | 0.7647 | **0.7382**     |
 
-## Get data
+## Get Data
 Please fill this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw1hSTX2waZIoerSk1J6CyNUMTRCUEZCR0lVOVZaTVhLUFVJTjhJUkdXSi4u). If the review is approved, the download link will be sent to your email address. 
 
 ## References
