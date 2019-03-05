@@ -63,9 +63,9 @@ arrangement of rows and columns as well as the type of table
 cells.
 
 ## Baselines
-To verify the effectiveness of Table-
-Bank, we build several strong baselines using the state-ofthe-
-art models with end-to-end deep neural networks. The
+To verify the effectiveness of Table-Bank,
+we build several strong baselines using the state-of-the-art
+models with end-to-end deep neural networks. The
 table detection model is based on the Faster R-CNN [Ren
 et al., 2015] architecture with different settings. The table
 structure recognition model is based on the encoder-decoder
@@ -92,8 +92,8 @@ evaluation metric with a single reference.
 We use the open source framework Detectron
 [Girshick et al., 2018] to train models on the TableBank.
 Detectron is a high-quality and high-performance codebase
-for object detection research, which supports many state-ofthe-
-art algorithms. In this task, we use the Faster R-CNN algorithm
+for object detection research, which supports many state-of-the-art
+algorithms. In this task, we use the Faster R-CNN algorithm
 with the ResNeXt [Xie et al., 2016] as the backbone
 network architecture, where the parameters are pre-trained on
 the ImageNet dataset. All baselines are trained using 4 P100
@@ -114,11 +114,11 @@ threshold of generating bounding boxes is set to 90%.
 
 ### Table Structure Recognition
 For table structure recognition, we use the open source
-framework OpenNMT [Klein et al., 2017] to train the imageto-text model.
+framework OpenNMT [Klein et al., 2017] to train the image-to-text model.
 OpenNMT is mainly designed for neural
 machine translation, which supports many encoder-decoder
-frameworks. In this task, we train our model using the imageto-
-text method in OpenNMT. The model is also trained using
+frameworks. In this task, we train our model using the image-to-text
+method in OpenNMT. The model is also trained using
 4 P100 NVIDIA GPUs with the learning rate of 0.1
 and batch size of 24. For other parameters,
 we use the default values in OpenNMT.
@@ -150,6 +150,6 @@ Please fill this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5
     transformations for deep neural networks. CoRR,
     abs/1611.05431, 2016.
 - [Klein et al., 2017] Guillaume Klein, Yoon Kim, Yuntian
-    Deng, Jean Senellart, and Alexander M. Rush. Open-
-    NMT: Open-source toolkit for neural machine translation.
+    Deng, Jean Senellart, and Alexander M. Rush. Open-NMT:
+    Open-source toolkit for neural machine translation.
     In Proc. of ACL, 2017.]
