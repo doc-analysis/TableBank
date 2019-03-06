@@ -44,6 +44,9 @@ a variety of domains.
 ## License
 TableBank is released under the [Attribution-NonCommercial-NoDerivs License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you may not distribute the modified material.
 
+## Paper
+https://arxiv.org/abs/1903.01949
+
 ## Task Definition
 
 ### Table Detection
