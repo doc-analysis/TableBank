@@ -147,6 +147,12 @@ Please fill this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5
 
 The leaderboard website is [https://doc-analysis.github.io/](https://doc-analysis.github.io/). If you would like to add a paper that reports a number at or above the current state of the art, email [Minghao Li](mailto:liminghao1630@buaa.edu.cn) and [Lei Cui](mailto:lecu@microsoft.com).
 
+### Statistics of TableBank(Removing copyright protection data)
+| Task                        | Word    | Latex   | Word+Latex |
+|-----------------------------|---------|---------|------------|
+| Table detection             | 101,889 | 253,817 | 355,706    |
+| Table structure recognition | 56,866  | 88,597  | 145,463    |
+
 ## References
 
 - [Ren et al., 2015] Shaoqing Ren, Kaiming He, Ross B. Girshick,
