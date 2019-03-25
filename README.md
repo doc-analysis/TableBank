@@ -140,6 +140,10 @@ we use the default values in OpenNMT.
 | Image-to-Text (Latex)      | 0.4048 | **0.7653** | 0.5818     |
 | Image-to-Text (Word+Latex) | 0.7121 | 0.7647 | **0.7382**     |
 
+## Model Zoo and Baselines
+
+The trained models available for download in the [TableBank Model Zoo](MODEL_ZOO.md).
+
 ## Get Data and Leaderboard
 **Because some data has copyright issues and should not be released, we filtered all the data and excluded them. We also retrain all the baseline model on the changed dataset and list them on the leaderboard website.**
 
