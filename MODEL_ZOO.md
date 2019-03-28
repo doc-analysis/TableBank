@@ -11,7 +11,13 @@ All models available for download through this document are licensed under the [
 
 ## Models
 
+### Table Detection 
 The models trained on TableBank are available in the format used by Detectron. 
 
 - [Without Copyright Data X101](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X101/model_final.pkl): Trained ResNeXt101 on latex and word mixed dataset without Copyright data.
 - [Without Copyright Data X152](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X152/model_final.pkl): Trained ResNeXt152 on latex and word mixed dataset without Copyright data.
+
+### Table Recognition
+The models trained on TableBank are available in the format used by OpenNMT. 
+
+- [Without Copyright Data](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Recognition_all_without_copyright/model.pt): Trained image-to-markup model on latex and word mixed dataset without Copyright data.
