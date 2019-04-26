@@ -149,7 +149,7 @@ The trained models available for download in the [TableBank Model Zoo](MODEL_ZOO
 
 Please fill this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw1hSTX2waZIoerSk1J6CyNUMTRCUEZCR0lVOVZaTVhLUFVJTjhJUkdXSi4u). If the review is approved, the download link will be sent to your email address. 
 
-The leaderboard website is [https://doc-analysis.github.io/](https://doc-analysis.github.io/). If you would like to add a paper that reports a number at or above the current state of the art, email [Minghao Li](mailto:liminghao1630@buaa.edu.cn) and [Lei Cui](mailto:lecu@microsoft.com).
+The leaderboard website is [https://doc-analysis.github.io/](https://doc-analysis.github.io/). If you would like to add a paper that reports a number at or above the current state of the art, email [Minghao Li](mailto:liminghao1630@buaa.edu.cn).
 
 ### Statistics of TableBank (Removing copyright protection data)
 | Task                        | Word    | Latex   | Word+Latex |
