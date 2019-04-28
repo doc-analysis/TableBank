@@ -144,6 +144,9 @@ we use the default values in OpenNMT.
 
 The trained models available for download in the [TableBank Model Zoo](MODEL_ZOO.md).
 
+## Quick Start
+Here is a pipeline to test pretrained model and visualize the performance of Table Detection task. [Table Detection](TestPretrainedModel.md).
+
 ## Get Data and Leaderboard
 **Because some data has copyright issues and should not be released, we filtered all the data and excluded them. We also retrain all the baseline model on the changed dataset and list them on the leaderboard website.**
 
