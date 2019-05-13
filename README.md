@@ -44,16 +44,7 @@ a variety of domains.
 ## License
 TableBank is released under the [Attribution-NonCommercial-NoDerivs License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-## Paper and Citing
-https://arxiv.org/abs/1903.01949
-```
-@article{li2019tablebank,
-  title={TableBank: Table Benchmark for Image-based Table Detection and Recognition},
-  author={Li, Minghao and Cui, Lei and Huang, Shaohan and Wei, Furu and Zhou, Ming and Li, Zhoujun},
-  journal={arXiv preprint arXiv:1903.01949},
-  year={2019}
-}
-```
+
 
 ## Task Definition
 
@@ -159,6 +150,17 @@ The leaderboard website is [https://doc-analysis.github.io/](https://doc-analysi
 |-----------------------------|---------|---------|------------|
 | Table detection             | 101,889 | 253,817 | 355,706    |
 | Table structure recognition | 56,866  | 88,597  | 145,463    |
+
+## Paper and Citing
+https://arxiv.org/abs/1903.01949
+```
+@article{li2019tablebank,
+  title={TableBank: Table Benchmark for Image-based Table Detection and Recognition},
+  author={Li, Minghao and Cui, Lei and Huang, Shaohan and Wei, Furu and Zhou, Ming and Li, Zhoujun},
+  journal={arXiv preprint arXiv:1903.01949},
+  year={2019}
+}
+```
 
 ## References
 
