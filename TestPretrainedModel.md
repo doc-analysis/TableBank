@@ -27,8 +27,8 @@ You need to download the configuration file and the weights of the model first [
 Then simply run the commands 
 
 ```
-python tools/infer_simple.py --cfg $MODEL_PATH --output-dir /tmp/detectron-tablebank --image-ext jpg \
-    --wts $CONFIG_MODEL /home/shr/TableBank/data/Sampled_Detection_data/Latex/images
+python tools/infer_simple.py --cfg $CONFIG_MODEL --output-dir /tmp/detectron-tablebank --image-ext jpg \
+    --wts $MODEL_PATH /home/shr/TableBank/data/Sampled_Detection_data/Latex/images
 ```
 
 where `/home/shr/TableBank/data/Sampled_Detection_data/Latex/images` is the input directory and `jpg` is the input format.
