@@ -1,5 +1,7 @@
 # TableBank
 
+**\*\*\*\*\* Our paper has been accepted in LREC 2020 \*\*\*\*\***
+
 TableBank is a new image-based table
 detection and recognition dataset built with novel
 weak supervision from Word and Latex documents
