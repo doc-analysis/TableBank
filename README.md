@@ -1,6 +1,6 @@
 # TableBank
 
-**\*\*\*\*\* Our paper has been accepted in LREC 2020 \*\*\*\*\***
+**\*\*\*\*\* Our paper has been accepted in [LREC 2020](https://lrec2020.lrec-conf.org/en/conference-programme/accepted-papers/) \*\*\*\*\***
 
 TableBank is a new image-based table
 detection and recognition dataset built with novel
