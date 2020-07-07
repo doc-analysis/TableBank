@@ -1,5 +1,7 @@
 # TableBank
 
+**\*\*\*\*\* A new benchmark dataset [DocBank](https://github.com/doc-analysis/DocBank) is now available for document layout analysis \*\*\*\*\***
+
 **\*\*\*\*\* Our data can only be used for research purpose \*\*\*\*\***
 
 **\*\*\*\*\* Our paper has been accepted in [LREC 2020](https://lrec2020.lrec-conf.org/en/conference-programme/accepted-papers/) \*\*\*\*\***
