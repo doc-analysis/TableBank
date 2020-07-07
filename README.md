@@ -1,6 +1,6 @@
 # TableBank
 
-**\*\*\*\*\* A new benchmark dataset [DocBank](https://github.com/doc-analysis/DocBank) is now available for document layout analysis \*\*\*\*\***
+**\*\*\*\*\* A new benchmark dataset DocBank ([Paper](https://arxiv.org/abs/2006.01038), [Repo](https://github.com/doc-analysis/DocBank)) is now available for document layout analysis \*\*\*\*\***
 
 **\*\*\*\*\* Our data can only be used for research purpose \*\*\*\*\***
 
