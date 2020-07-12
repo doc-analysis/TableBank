@@ -162,11 +162,13 @@ The leaderboard website is [https://doc-analysis.github.io/](https://doc-analysi
 ## Paper and Citing
 https://arxiv.org/abs/1903.01949
 ```
-@article{li2019tablebank,
-  title={TableBank: Table Benchmark for Image-based Table Detection and Recognition},
-  author={Li, Minghao and Cui, Lei and Huang, Shaohan and Wei, Furu and Zhou, Ming and Li, Zhoujun},
-  journal={arXiv preprint arXiv:1903.01949},
-  year={2019}
+@misc{li2019tablebank,
+    title={TableBank: A Benchmark Dataset for Table Detection and Recognition},
+    author={Minghao Li and Lei Cui and Shaohan Huang and Furu Wei and Ming Zhou and Zhoujun Li},
+    year={2019},
+    eprint={1903.01949},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
 ```
 
