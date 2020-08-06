@@ -147,9 +147,11 @@ Here is a pipeline to test pretrained model and visualize the performance of Tab
 ## Get Data and Leaderboard
 **Because some data has copyright issues and should not be released, we filtered all the data and excluded them. We also retrain all the baseline model on the changed dataset and list them on the leaderboard website.**
 
-Please fill this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw1hSTX2waZIoerSk1J6CyNUMTRCUEZCR0lVOVZaTVhLUFVJTjhJUkdXSi4u). If the review is approved, the download link will be sent to your email address. 
+**\*\*Please DO NOT re-distribute our data.\*\***
 
-The link will be reviewed and sent **the next Monday after the application**
+If you use the corpus in published work, please cite it referring to the "Paper and Citation" Section.
+
+The annotations and original document pictures of the TableBank dataset **can be download from the [TableBank dataset homepage](https://doc-analysis.github.io/tablebank-page/index.html)**.
 
 The leaderboard website is [https://doc-analysis.github.io/](https://doc-analysis.github.io/). If you would like to add a paper that reports a number at or above the current state of the art, email [Minghao Li](mailto:liminghao1630@buaa.edu.cn).
 
@@ -159,7 +161,7 @@ The leaderboard website is [https://doc-analysis.github.io/](https://doc-analysi
 | Table detection             | 101,889 | 253,817 | 355,706    |
 | Table structure recognition | 56,866  | 88,597  | 145,463    |
 
-## Paper and Citing
+## Paper and Citation
 https://arxiv.org/abs/1903.01949
 ```
 @misc{li2019tablebank,
