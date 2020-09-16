@@ -55,19 +55,19 @@ a variety of domains.
 | Table detection             | 78,399  | 200,183 | 278,582    |
 | Table structure recognition | 56,866  | 88,597  | 145,463    |
 
-#### Statistics on Train/Val/Test sets of Table Structure Recognition
-| Source | Train  | Val   | Test |
-|--------|--------|-------|------|
-| Latex  |  79486 |  6075 | 3036 |
-| Word   |  50977 |  3925 | 1964 |
-| Total  | 130463 | 10000 | 5000 |
-
 #### Statistics on Train/Val/Test sets of Table Detection
 | Source | Train  | Val   | Test |
 |--------|--------|-------|------|
 | Latex  | 187199 |  7265 | 5719 |
 | Word   |  73383 |  2735 | 2281 |
 | Total  | 260582 | 10000 | 8000 |
+
+#### Statistics on Train/Val/Test sets of Table Structure Recognition
+| Source | Train  | Val   | Test |
+|--------|--------|-------|------|
+| Latex  |  79486 |  6075 | 3036 |
+| Word   |  50977 |  3925 | 1964 |
+| Total  | 130463 | 10000 | 5000 |
 
 
 ## License
