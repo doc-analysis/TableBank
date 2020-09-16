@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The models trained in our baseline are listed below. All models were trained 20epochs under their respective backbones. Using the pretrained model provided by [detectron](https://github.com/facebookresearch/Detectron/blob/master/MODEL_ZOO.md).
+The models trained in our baseline are listed below. All models were trained 20epochs under their respective backbones. Using the pretrained model provided by [Detectron2](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md).
 
 
 ## License
@@ -12,12 +12,22 @@ All models available for download through this document are licensed under the [
 ## Models
 
 ### Table Detection 
-The models trained on TableBank are available in the format used by Detectron. 
+The models trained on TableBank are available in the format used by Detectron2. 
 
-- [Without Copyright Data X101](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X101/model_final.pkl): Trained ResNeXt101 on latex and word mixed dataset without Copyright data.[[config](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X101/config_X101.yaml)]
-- [Without Copyright Data X152](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X152/model_final.pkl): Trained ResNeXt152 on latex and word mixed dataset without Copyright data.[[config](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Without_copyright/X152/config_X152.yaml)]
+|      Models      |    Url   |  Size  |
+|:----------------:|:--------:|:------:|
+|    X101(Word)    | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) |  796MB |
+|    X152(Word)    | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) | 1.03GB |
+|    X101(Latex)   | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) |  796MB |
+|    X152(Latex)   | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) | 1.03GB |
+| X101(Word+Latex) | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) |  796MB |
+| X152(Word+Latex) | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) | 1.03GB |
 
 ### Table Recognition
 The models trained on TableBank are available in the format used by OpenNMT. 
 
-- [Without Copyright Data](https://conversationhub.blob.core.windows.net/tablebank/model_zoo/Recognition_all_without_copyright/model.pt): Trained image-to-markup model on latex and word mixed dataset without Copyright data.
+|           Models           |    Url   |  Size  |
+|:--------------------------:|:--------:|:------:|
+|    Image-to-Text (Word)    | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Er3e39wwUPxLsEooMYU1ylsBWqr7HHm9w2myWi8ZxFgaEQ?e=hFC7Oa) | 49.5MB |
+|    Image-to-Text (Latex)   | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Er3e39wwUPxLsEooMYU1ylsBWqr7HHm9w2myWi8ZxFgaEQ?e=hFC7Oa) | 49.5MB |
+| Image-to-Text (Word+Latex) | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Er3e39wwUPxLsEooMYU1ylsBWqr7HHm9w2myWi8ZxFgaEQ?e=hFC7Oa) | 49.5MB |
