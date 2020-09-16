@@ -1,6 +1,6 @@
 # TableBank
 
-**\*\*\*\*\* We randomly split the train/val/test sets and re-train both of the Table Detection and Table Structure Recognition models using Detectron2 and OpenNMT tools. The benchmark results, the MODEL ZOO, and the download link of TableBank have been updated. \*\*\*\*\***
+**\*\*\*\*\* We release an official split for the train/val/test datasets and re-train both of the Table Detection and Table Structure Recognition models using Detectron2 and OpenNMT tools. The benchmark results, the MODEL ZOO, and the download link of TableBank have been updated. \*\*\*\*\***
 
 **\*\*\*\*\* A new benchmark dataset DocBank ([Paper](https://arxiv.org/abs/2006.01038), [Repo](https://github.com/doc-analysis/DocBank)) is now available for document layout analysis \*\*\*\*\***
 
