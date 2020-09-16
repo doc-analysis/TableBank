@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The models trained in our baseline are listed below. All models were trained 20epochs under their respective backbones. Using the pretrained model provided by [Detectron2](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md).
+The models trained in our baseline are listed below. All models were trained 10 epochs under their respective backbones. Using the pretrained model provided by [Detectron2](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md).
 
 
 ## License

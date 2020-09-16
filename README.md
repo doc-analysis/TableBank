@@ -55,6 +55,20 @@ a variety of domains.
 | Table detection             | 78,399  | 200,183 | 278,582    |
 | Table structure recognition | 56,866  | 88,597  | 145,463    |
 
+#### Statistics on Train/Val/Test sets of Table Structure Recognition
+| Source | Train  | Val   | Test |
+|--------|--------|-------|------|
+| Latex  |  79486 |  6075 | 3036 |
+| Word   |  50977 |  3925 | 1964 |
+| Total  | 130463 | 10000 | 5000 |
+
+#### Statistics on Train/Val/Test sets of Table Detection
+| Source | Train  | Val   | Test |
+|--------|--------|-------|------|
+| Latex  | 187199 |  7265 | 5719 |
+| Word   |  73383 |  2735 | 2281 |
+| Total  | 260582 | 10000 | 8000 |
+
 
 ## License
 TableBank is released under the [Attribution-NonCommercial-NoDerivs License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you may not distribute the modified material.
@@ -156,11 +170,14 @@ Here is a pipeline to test pretrained model and visualize the performance of Tab
 ## Get Data and Leaderboard
 <!-- **Because some data has copyright issues and should not be released, we filtered all the data and excluded them. We also retrain all the baseline model on the changed dataset and list them on the leaderboard website.** -->
 
+
 **\*\*Please DO NOT re-distribute our data.\*\***
 
 If you use the corpus in published work, please cite it referring to the "Paper and Citation" Section.
 
 The annotations and original document pictures of the TableBank dataset **can be download from the [TableBank dataset homepage](https://doc-analysis.github.io/tablebank-page/index.html)**.
+
+
 
 <!-- The leaderboard website is [https://doc-analysis.github.io/](https://doc-analysis.github.io/). If you would like to add a paper that reports a number at or above the current state of the art, email [Minghao Li](mailto:liminghao1630@buaa.edu.cn). -->
 
@@ -169,6 +186,8 @@ The annotations and original document pictures of the TableBank dataset **can be
 |-----------------------------|---------|---------|------------|
 | Table detection             | 101,889 | 253,817 | 355,706    |
 | Table structure recognition | 56,866  | 88,597  | 145,463    | -->
+
+
 
 ## Paper and Citation
 https://arxiv.org/abs/1903.01949
