@@ -1,3 +1,5 @@
+**TestPretrainedModel.md is deprecated. Please refer to the [detectron2](https://github.com/facebookresearch/detectron2) official repository for inferring instructions.**
+
 # Table Detection Task
 
 This provides a pipeline to test pretrained model and visualize the performance of Table Detection task.
