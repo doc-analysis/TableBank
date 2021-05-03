@@ -5,10 +5,6 @@
 The models trained in our baseline are listed below. All models were trained 10 epochs under their respective backbones. Using the pretrained model provided by [Detectron2](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md).
 
 
-## License
-
-All models available for download through this document are licensed under the [Attribution-NonCommercial-NoDerivs License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
 ## Models
 
 ### Table Detection 

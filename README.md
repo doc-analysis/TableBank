@@ -3,6 +3,7 @@
 TableBank is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables.
 
 ## News
+- **We update the license to Apache-2.0.**
 - **We release an official split for the train/val/test datasets and re-train both of the Table Detection and Table Structure Recognition models using Detectron2 and OpenNMT tools. The benchmark results, the MODEL ZOO, and the download link of TableBank have been updated.**
 - **A new benchmark dataset DocBank ([Paper](https://arxiv.org/abs/2006.01038), [Repo](https://github.com/doc-analysis/DocBank)) is now available for document layout analysis**
 - **Our data can only be used for research purpose**
@@ -62,11 +63,6 @@ a variety of domains.
 | Latex  |  79486 |  6075 | 3036 |
 | Word   |  50977 |  3925 | 1964 |
 | Total  | 130463 | 10000 | 5000 |
-
-
-## License
-TableBank is released under the [Attribution-NonCommercial-NoDerivs License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you may not distribute the modified material.
-
 
 
 ## Task Definition
