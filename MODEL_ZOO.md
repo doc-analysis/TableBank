@@ -12,18 +12,18 @@ The models trained on TableBank are available in the format used by Detectron2.
 
 |      Models      |    Url   |  Size  |
 |:----------------:|:--------:|:------:|
-|    X101(Word)    | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) |  796MB |
-|    X152(Word)    | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) | 1.03GB |
-|    X101(Latex)   | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) |  796MB |
-|    X152(Latex)   | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) | 1.03GB |
-| X101(Word+Latex) | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) |  796MB |
-| X152(Word+Latex) | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Esy5fgoxZTVImem0R0DFyNMB134ZalOOhBiYgMj6CbjfnQ?e=JnnjnD) | 1.03GB |
+|    X101(Word)    | [Model](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Word_X101/model_final.pth)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Word_X101/Word_X101.yaml) |  796MB |
+|    X152(Word)    | [Model](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Word_X152/model_final.pth)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Word_X152/Word_X152.yaml) | 1.03GB |
+|    X101(Latex)   | [Model](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Latex_X101/model_final.pth)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Latex_X101/Latex_X101.yaml) |  796MB |
+|    X152(Latex)   | [Model](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Latex_X152/model_final.pth)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/Latex_X152/Latex_X152.yaml) | 1.03GB |
+| X101(Word+Latex) | [Model](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/All_X101/model_final.pth)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/All_X101/All_X101.yaml) |  796MB |
+| X152(Word+Latex) | [Model](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/All_X152/model_final.pth)/[Config](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/detection/All_X152/All_X152.yaml) | 1.03GB |
 
 ### Table Recognition
 The models trained on TableBank are available in the format used by OpenNMT. 
 
 |           Models           |    Url   |  Size  |
 |:--------------------------:|:--------:|:------:|
-|    Image-to-Text (Word)    | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Er3e39wwUPxLsEooMYU1ylsBWqr7HHm9w2myWi8ZxFgaEQ?e=hFC7Oa) | 49.5MB |
-|    Image-to-Text (Latex)   | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Er3e39wwUPxLsEooMYU1ylsBWqr7HHm9w2myWi8ZxFgaEQ?e=hFC7Oa) | 49.5MB |
-| Image-to-Text (Word+Latex) | [OneDrive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/liminghao1630_buaa_edu_cn/Er3e39wwUPxLsEooMYU1ylsBWqr7HHm9w2myWi8ZxFgaEQ?e=hFC7Oa) | 49.5MB |
+|    Image-to-Text (Word)    | [Model](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/recognition/Recognition_Word.pt) | 49.5MB |
+|    Image-to-Text (Latex)   | [Model](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/recognition/Recognition_Latex.pt) | 49.5MB |
+| Image-to-Text (Word+Latex) | [Model](https://layoutlm.blob.core.windows.net/tablebank/model_zoo/recognition/Recognition_All.pt) | 49.5MB |
